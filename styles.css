@@ -1512,7 +1512,7 @@ img {
     }
 
     .navbar {
-        top: 42px;
+        top: 58px;
     }
 
     .navbar.scrolled {
@@ -1521,7 +1521,7 @@ img {
 
     .nav-menu {
         position: fixed;
-        top: 105px;
+        top: 120px;
         left: 0;
         right: 0;
         background: white;
@@ -1535,7 +1535,7 @@ img {
     }
 
     .navbar.scrolled .nav-menu {
-        top: 60px;
+        top: 63px;
     }
 
     .nav-menu.active {
