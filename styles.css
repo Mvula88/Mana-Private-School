@@ -1562,7 +1562,7 @@ img {
 
     /* Hero Section Mobile */
     .hero {
-        padding-top: 7rem;
+        padding-top: 9rem;
         padding-bottom: 2rem;
         min-height: auto;
     }
@@ -1987,10 +1987,6 @@ img {
     }
 
     /* Hero Small Mobile */
-    .hero {
-        padding-top: 6.5rem;
-    }
-
     .hero-title {
         font-size: 1.6rem;
         line-height: 1.2;
